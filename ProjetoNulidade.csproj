@@ -1,0 +1,10 @@
+<Projeto SDK="Microsoft.NET.Sdk">
+
+  <Grupo de Propriedades>
+    <Tipo de saída>Exe</Tipo de saída>
+    <Estrutura de destino>net8.0</Estrutura de destino>
+    <Anulável>habilitar</Anulável>
+    <Usos implícitos>habilitar</Usos implícitos>
+  </Grupo de Propriedades>
+
+</Projeto>
